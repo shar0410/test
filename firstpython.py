@@ -1,3 +1,3 @@
 #display a line
 
-print("Jwajalapa!")
+print("Jwojalapa!")
